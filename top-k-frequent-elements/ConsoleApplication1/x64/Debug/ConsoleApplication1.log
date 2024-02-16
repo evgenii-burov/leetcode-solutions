@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\evgen\Documents\leetcode-solutions\top-k-frequent-elements\ConsoleApplication1\ConsoleApplication1.cpp(9,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\evgen\Documents\leetcode-solutions\top-k-frequent-elements\ConsoleApplication1\x64\Debug\top-k-frequent-elems.exe
